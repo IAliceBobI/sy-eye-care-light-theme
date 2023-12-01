@@ -2,7 +2,7 @@
   "name": "sy-eye-care-light-theme",
   "author": "IAliceBobI",
   "url": "https://github.com/IAliceBobI/sy-eye-care-light-theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "minAppVersion": "2.8.8",
   "displayName": {
     "default": "eye care light theme",
@@ -10,7 +10,7 @@
   },
   "description": {
     "default": "This is a theme sample",
-    "zh_CN": "护眼、高性能"
+    "zh_CN": "豆沙绿护眼、高性能"
   },
   "readme": {
     "default": "README.md",
