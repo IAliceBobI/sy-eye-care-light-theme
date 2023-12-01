@@ -1,16 +1,16 @@
 {
-  "name": "theme-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/theme-sample",
-  "version": "0.0.3",
+  "name": "sy-eye-care-light-theme",
+  "author": "IAliceBobI",
+  "url": "https://github.com/IAliceBobI/sy-eye-care-light-theme",
+  "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Theme Sample",
-    "zh_CN": "主题示例"
+    "default": "eye care light theme",
+    "zh_CN": "护眼light"
   },
   "description": {
     "default": "This is a theme sample",
-    "zh_CN": "这是一个主题示例"
+    "zh_CN": "护眼、高性能"
   },
   "readme": {
     "default": "README.md",
@@ -21,13 +21,13 @@
     "patreon": "",
     "github": "",
     "custom": [
-      "https://ld246.com/sponsor"
+      "https://afdian.net/a/playerv5"
     ]
   },
   "modes": [
     "light"
   ],
   "keywords": [
-    "sample", "示例"
+    "eye care", "护眼"
   ]
 }
