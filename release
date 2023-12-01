@@ -1,10 +1,10 @@
 #!/bin/env zsh
 
-current_version=$(jq -r '.version' widget.json)
+current_version=$(jq -r '.version' theme.json)
 IFS='.' read -r major minor patch <<< "$current_version"
 ((patch++))
 new_version="${major}.${minor}.${patch}"
-sed -i "s/\"version\": \"$current_version\"/\"version\": \"$new_version\"/" widget.json
+sed -i "s/\"version\": \"$current_version\"/\"version\": \"$new_version\"/" theme.json
 git add -A
 git commit -m "auto"
 git tag v${new_version}
