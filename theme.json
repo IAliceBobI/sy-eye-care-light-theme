@@ -1,33 +1,34 @@
 {
-  "name": "sy-eye-care-light-theme",
-  "author": "IAliceBobI",
-  "url": "https://github.com/IAliceBobI/sy-eye-care-light-theme",
-  "version": "0.0.10",
-  "minAppVersion": "2.8.8",
-  "displayName": {
-    "default": "eye care light theme",
-    "zh_CN": "护眼light"
-  },
-  "description": {
-    "default": "eye care light",
-    "zh_CN": "豆沙绿护眼、高性能"
-  },
-  "readme": {
-    "default": "README.md",
-    "zh_CN": "README_zh_CN.md"
-  },
-  "funding": {
-    "openCollective": "",
-    "patreon": "",
-    "github": "",
-    "custom": [
-      "https://afdian.net/a/playerv5"
-    ]
-  },
-  "modes": [
-    "light"
-  ],
-  "keywords": [
-    "eye care", "护眼"
-  ]
+    "name":  "sy-eye-care-light-theme",
+    "author":  "IAliceBobI",
+    "url":  "https://github.com/IAliceBobI/sy-eye-care-light-theme",
+    "version":  "0.0.11",
+    "minAppVersion":  "2.8.8",
+    "displayName":  {
+                        "default":  "eye care light theme",
+                        "zh_CN":  "护眼light"
+                    },
+    "description":  {
+                        "default":  "eye care light",
+                        "zh_CN":  "豆沙绿护眼、高性能"
+                    },
+    "readme":  {
+                   "default":  "README.md",
+                   "zh_CN":  "README_zh_CN.md"
+               },
+    "funding":  {
+                    "openCollective":  "",
+                    "patreon":  "",
+                    "github":  "",
+                    "custom":  [
+                                   "https://afdian.net/a/playerv5"
+                               ]
+                },
+    "modes":  [
+                  "light"
+              ],
+    "keywords":  [
+                     "eye care",
+                     "护眼"
+                 ]
 }
